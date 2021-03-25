@@ -23,7 +23,7 @@ openapi-spec-validator==0.2.8
 pip==19.0.3
 pylint==2.4.4
 pyrsistent==0.15.5
-PyYAML==5.1.2
+PyYAML==5.4
 requests==2.22.0
 setuptools==40.8.0
 six==1.13.0
